@@ -1,6 +1,6 @@
 <?php
 
-namespace Avenu\ThrottleWhitelist\ControlPanel\Routes;
+namespace Mithra62\ThrottleWhitelist\ControlPanel\Routes;
 
 use ExpressionEngine\Service\Addon\Controllers\Mcp\AbstractRoute;
 
